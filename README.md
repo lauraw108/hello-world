@@ -1,2 +1,3 @@
-# hello-world
-My first repository
+This Git business is strange & new!
+
+I hope it all makes sense soon!
